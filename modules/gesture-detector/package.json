@@ -1,0 +1,14 @@
+{
+    "name": "gesture-detector",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Apple Vision hand gesture detection for Finger Shoot",
+    "main": "src/index.ts",
+    "types": "src/index.ts",
+    "scripts": {},
+    "peerDependencies": {
+        "expo": "*",
+        "react": "*",
+        "react-native": "*"
+    }
+}
