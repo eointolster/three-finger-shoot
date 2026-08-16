@@ -17,6 +17,12 @@ Three Finger Shoot is an iOS arcade game controlled with hand gestures. The app 
 
 Expo Go can display the app's touch-fallback shell, but it cannot load the custom Swift gesture-detector module. Real camera and Apple Vision inference requires an installed development build or a production/TestFlight build.
 
+
+
+
+
+<img width="645" height="1398" alt="IMG_5219" src="https://github.com/user-attachments/assets/730e7ed5-fa65-498d-801d-99c5e0ff48eb" />
+
 ## Quick start
 
 **Practical rule:** Start Metro and the JavaScript app shell with:
